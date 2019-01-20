@@ -1,2 +1,2 @@
 # framework
-yaf/yii2/tp3.2/ci留言板案例
+yaf/yii2/tp3.2/ci
